@@ -3,7 +3,7 @@
 Repository ini dibuat untuk memenuhi Ujian Tengah Semester dari Mata Kuliah Pemrograman Web II
 
 Home Page
-![homepage](https://github.com/fallahibagaskara/crud-sederhana-php/blob/main/assets/img/Screenshot%202023-05-24%20154636.png)
+![homepage](https://github.com/fallahibagaskara/crud-sederhana-php/blob/main/assets/img/Screenshot%202023-05-24%20155457.png)
 
 Tabel Mata Kuliah
 ![matakuliah](https://github.com/fallahibagaskara/crud-sederhana-php/blob/main/assets/img/Screenshot%202023-05-24%20154636.png)
